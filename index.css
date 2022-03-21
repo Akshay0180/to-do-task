@@ -1,0 +1,46 @@
+.text{
+border: none;
+border: none;
+    font-size: 18px;
+    /* margin-top: 20px; */
+    padding: 10px 20px;
+    color: #272727;
+
+}
+body{
+    background:  #33ccff;
+    
+}
+#todo-input{
+    font-size: 18px;
+    color: #272727;
+    padding: 10px 20px;
+    outline: navajowhite;
+    border: 0;
+}
+
+#todo-submit{
+    font-size: 18px;
+    color: #272727;
+    padding: 8px 20px;
+    border: 0;
+}
+.task{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+}
+
+.actions {
+    margin-top: 20px;
+    /* font-size: 27px; */
+}
+
+button.edit, button.delete {
+    font-size: 18px;
+    color: #272727;
+    padding: 10px 20px;
+    border: 0;
+    margin-left: 5px;
+}
